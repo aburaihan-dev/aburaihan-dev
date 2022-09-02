@@ -5,13 +5,13 @@
 
 #### Who I am?
 - A dynamic software developer and DevOps Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 5 years of hands-on experience in **software development, team management,** and **tech consultancy.**
+- Have 5 years of hands-on experience in **software development, DevOps, team management,** and **tech consultancy.**
 - Developed products for **healthcare, Contact Centre solutions, Govt. Dept. Automation,** and **logistics** business domains.
 - Have built **web** apps in **monolithic** and **microservices** architectures.
 - Maintained and Improved **Leagacy applications**.
 
 #### What I'm doing?
-- 🏢 Working at **[<img alt="alt_text" width="80px" src="./images/logo.png" />](https://synesisit.com.bd/)** as a **Senior Software Programmer/DevOps Engineer**.
+- 🏢 Working at **[<img alt="Synesis IT" src="./images/logo.png" style="background-color: #FFF;image-rendering: auto;padding: 1px 3px; width: 85px;"/>](https://synesisit.com.bd/)** as a **`Senior Software Programmer`/`DevOps Engineer`**.
 - 👨‍💻 Writing `Java` `Python` `SQL` `YAML` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/mdaburaihan/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/mdaburaihan/)--> and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **System Design**, **Kubernetes**, **AWS**.
