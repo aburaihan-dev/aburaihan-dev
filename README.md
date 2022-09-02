@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Software Engineer working in Dhaka, Bangladesh.</h1>
+<h1 align="center">Hi 👋, I'm Md. Abu Raihan Srabon</h1>
 <h3 align="center">Interested in DevOps, Cloud engineering and System Architecure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aburaihan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aburaihan-dev" /> </p>
@@ -11,7 +11,7 @@
 - Maintained and Improved **Leagacy applications**.
 
 #### What I'm doing?
-- 🏢 Working at **[<img alt="Synesis IT" src="./images/logo.png" style="background-color: #FFF;image-rendering: auto;padding: 1px 3px; width: 85px;"/>](https://synesisit.com.bd/)** as a **`Senior Software Programmer`/`DevOps Engineer`**.
+- 🏢 Working at **[<img alt="Synesis IT" src="./images/logo-removebg-preview-wh.png" style="width: 85px;"/>](https://synesisit.com.bd/)** as a **`Senior Software Programmer`/`DevOps Engineer`**.
 - 👨‍💻 Writing `Java` `Python` `SQL` `YAML` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/mdaburaihan/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/mdaburaihan/)--> and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **System Design**, **Kubernetes**, **AWS**.
