@@ -11,7 +11,7 @@
 - Maintained and Improved **Leagacy applications**.
 
 #### What I'm doing?
-- 🏢 Working at **[<img alt="alt_text" width="80px" src="https://synesisit.com.bd/assets/img/logo.png" />](https://synesisit.com.bd/)** as a **Senior Software Programmer/DevOps Engineer**.
+- 🏢 Working at **[<img alt="alt_text" width="80px" src="./images/logo.png" />](https://synesisit.com.bd/)** as a **Senior Software Programmer/DevOps Engineer**.
 - 👨‍💻 Writing `Java` `Python` `SQL` `YAML` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/mdaburaihan/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/mdaburaihan/)--> and the **.NET community**.
 - 📚 Currently learning about **clean architecture**, **System Design**, **Kubernetes**, **AWS**.
