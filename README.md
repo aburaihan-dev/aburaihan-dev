@@ -4,21 +4,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aburaihan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aburaihan-dev" /> </p>
 
 #### Who I am?
-- A dynamic software developer and DevOps Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- A dynamic Software Developer and DevOps Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 5 years of hands-on experience in **software development, DevOps, team management,** and **tech consultancy.**
-- Developed products for **healthcare, Contact Centre solutions, Govt. Dept. Automation,** and **logistics** business domains.
+- Developed products for **healthcare, Contact Centre solutions**, and **Govt. Dept. Automation,** domains.
 - Have built **Web** apps in **Monolithic** and **Microservices** architectures.
 - Maintained and Improved **Leagacy applications**.
 - **Certifications:** 
 [`Certified ScrumMaster®` (`CSM®`)](https://www.scrumalliance.org/community/profile/msrabon), [`Certified Scrum Developer®` (`CSD®`)](https://www.scrumalliance.org/community/profile/msrabon), [`Advanced Certified Scrum Developer℠`](https://www.scrumalliance.org/community/profile/msrabon)
 
 #### What I'm doing?
-- 🏢 Working at **[<img alt="Synesis IT" src="./images/logo-removebg-preview-wh.png" style="width: 85px;"/>](https://synesisit.com.bd/)** as a **`Senior Software Programmer`/`DevOps Engineer`**.
+- 🏢 Working at **[<img alt="Synesis IT" src="./images/logo-removebg-preview-wh.png" style="width: 95px;"/>](https://synesisit.com.bd/)** as a **`Senior Programmer`/`DevOps Engineer`**.
 - 👨‍💻 Writing `Java` `Python` `SQL` `YAML` `JavaScript`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/mdaburaihan/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/mdaburaihan/)--> and the **Java Community** and **DevOps Communities**.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/mdaburaihan/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=15></a> <!--[LinkedIn](https://www.linkedin.com/in/mdaburaihan/)--> and the **Java Community** and **DevOps Communities**.
 - 📚 Currently learning about **clean architecture**, **System Design**, **Kubernetes**, **AWS**.
-- 🛠️ Working on **microservices**, **digital signatures**, **state machines**, and **distributed systems** professionally.
-- 👯 Looking to collaborate on **SpringBoot Projects**.
+- 🛠️ Working on **microservices**, **system & solution architecture**, and **distributed systems** professionally.
+- 👯 Looking to collaborate on **SpringBoot Projects**, **DevOps Automation**, and **Full-Stack Projects** with potentially millions of users.
 - 🎯 Preparing for **CKAD**, **CKA** certifications. 
 
 #### What I like to disscuss about? 
