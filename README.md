@@ -13,7 +13,7 @@
 #### What I'm doing?
 - 🏢 Working at **[<img alt="Synesis IT" src="./images/logo-removebg-preview-wh.png" style="width: 85px;"/>](https://synesisit.com.bd/)** as a **`Senior Software Programmer`/`DevOps Engineer`**.
 - 👨‍💻 Writing `Java` `Python` `SQL` `YAML` `JavaScript`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/mdaburaihan/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/mdaburaihan/)--> and the **.NET community**.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/mdaburaihan/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/mdaburaihan/)--> and the **Java Community** and **DevOps Communities**.
 - 📚 Currently learning about **clean architecture**, **System Design**, **Kubernetes**, **AWS**.
 - 🛠️ Working on **microservices**, **digital signatures**, **state machines**, and **distributed systems** professionally.
 - 👯 Looking to collaborate on **SpringBoot Projects**.
