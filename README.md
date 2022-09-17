@@ -7,8 +7,10 @@
 - A dynamic software developer and DevOps Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 5 years of hands-on experience in **software development, DevOps, team management,** and **tech consultancy.**
 - Developed products for **healthcare, Contact Centre solutions, Govt. Dept. Automation,** and **logistics** business domains.
-- Have built **web** apps in **monolithic** and **microservices** architectures.
+- Have built **Web** apps in **Monolithic** and **Microservices** architectures.
 - Maintained and Improved **Leagacy applications**.
+- **Certifications:** 
+[`Certified ScrumMaster®` (`CSM®`)](https://www.scrumalliance.org/community/profile/msrabon), [`Certified Scrum Developer®` (`CSD®`)](https://www.scrumalliance.org/community/profile/msrabon), [`Advanced Certified Scrum Developer℠`](https://www.scrumalliance.org/community/profile/msrabon)
 
 #### What I'm doing?
 - 🏢 Working at **[<img alt="Synesis IT" src="./images/logo-removebg-preview-wh.png" style="width: 85px;"/>](https://synesisit.com.bd/)** as a **`Senior Software Programmer`/`DevOps Engineer`**.
