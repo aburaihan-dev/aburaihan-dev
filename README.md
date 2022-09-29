@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md. Abu Raihan Srabon</h1>
-<h3 align="center">Interested in DevOps, Cloud engineering and System Architecure</h3>
+<h3 align="center">Interested in Full-Stack Development, DevOps, Cloud engineering and System Architecure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aburaihan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aburaihan-dev" /> </p>
 
 #### Who I am?
-- A dynamic Software Developer and DevOps Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 5 years of hands-on experience in **software development, DevOps, team management,** and **tech consultancy.**
+- A dynamic **`Full-Stack Software Developer`** and **`DevOps Engineer`** based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- Have 5+ years of hands-on experience in **software development, DevOps, team management,** and **tech consultancy.**
+- **Pioneered** and a **strong advocate** for `DevOps` **transformation** at **[<img alt="Synesis IT" src="./images/logo-removebg-preview-wh.png" style="width: 95px;"/>](https://synesisit.com.bd/)**
 - Developed products for **healthcare, Contact Centre solutions**, and **Govt. Dept. Automation,** domains.
 - Have built **Web** apps in **Monolithic** and **Microservices** architectures.
 - Maintained and Improved **Leagacy applications**.
