@@ -53,4 +53,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aburaihan-dev&show_icons=true&locale=en&layout=compact" alt="aburaihan-dev" />
 <img src="https://github-readme-stats.vercel.app/api?username=aburaihan-dev&show_icons=true&locale=en" alt="aburaihan-dev" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aburaihan-dev&" alt="aburaihan-dev" />
+<img src="https://github-profile-trophy.vercel.app/?username=aburaihan-dev" alt="aburaihan-dev" />
 </details>
