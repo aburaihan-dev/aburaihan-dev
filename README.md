@@ -2,7 +2,7 @@
 
 ### 8+ Years in Technology | 5+ Years in Software Development | Open to Remote & Relocation (USA, Europe, New Zealand) | Based in Dhaka, Bangladesh
 
-![Profile Views](https://komarev.com/ghpvc/?username=aburaihan-dev&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://profile-views-counter.mdaburaihansrabon.workers.dev/badge/aburaihan-dev)
 
 ---
 
